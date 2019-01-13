@@ -1,0 +1,105 @@
+@@important url(https://fonts.googleapis.com/css?family=Taviraj" rel="stylesheet);
+
+<style>
+/*background
+-------------------------------------------*/
+
+.one {  
+    margin: 0 auto;  
+    height: 140px;  
+    writing-mode: vertical-lr;/*从左向右 从右向左是 writing-mode: vertical-rl;*/  
+    writing-mode: tb-lr;/*IE浏览器的从左向右 从右向左是 writing-mode: tb-rl；*/  
+}  
+
+
+/*content
+-------------------------------------------*/
+.name {
+    font-size:30px;
+    height:100px;
+    writing-mode: vertical-lr;
+}
+h1 {
+  font-family: 'Taviraj', serif;
+  font-size:86px;
+  writing-mode: vertical-lr;
+  position: absolute;
+  top:50px;
+  left: 15px;
+}
+h2 {
+  font-family: 'Taviraj', serif;
+  font-size:21px;
+  writing-mode: vertical-lr;
+  position: absolute;
+  top:55px;
+  left: 40px;
+  color:rgb(145,0,0);
+}
+.fin{
+  color:rgb(145,0,0);
+}
+p {
+      padding:0px;
+      font-family: 'Taviraj', serif;
+      font-size:12px;
+      min-width:2000px;
+      position: absolute;
+      top:600px;
+      left: 1500px;
+      writing-mode: vertical-lr;
+}
+body{
+  background-color: rgb(5,42,68);
+  /*background-color: black;
+  background-image:url("https://images.unsplash.com/photo-1541919635-250e08fbdd21?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80");
+  background-size: 1000px 300px;
+  background-position: 30% -90%;
+  background-repeat:no-repeat;*/
+  margin: 0 auto;
+  color: rgb(235,176,58);
+}
+/*audio
+-------------------------------------------*/
+.b-audio{
+
+        background:rgb(195,146,52);
+        position: absolute;
+        top:400px;
+        z-index: 4;
+}
+
+/*rectangle
+-------------------------------------------*/
+#rectangle {
+    width: 3810px;
+    height: 120px;
+    background: rgb(235,176,58);
+    position: absolute;
+    top:470px;
+    z-index: 3;
+}
+
+*********************************************
+                   _ooOoo_
+                  o8888888o
+                  88" . "88
+                  (| -_- |)
+                  O\  =  /O
+               ____/`---'\____
+             .'  \\|     |//  `.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||-  \
+           |   | \\\  -  /// |   |
+           | \_|  ''\---/''  |   |
+           \  .-\__  `-`  ___/-. /
+         ___`. .'  /--.--\  `. . __
+      ."" '<  `.___\_<|>_/___.'  >'"".
+     | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+     \  \ `-.   \_ __\ /__ _/   .-` /  /
+======`-.____`-.___\_____/___.-`____.-'======
+                   `=---='
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+</style>
